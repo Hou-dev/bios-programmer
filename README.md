@@ -1,6 +1,6 @@
 # bios-programmer
 This readme is a record my expericnce using the CH341A.
-The inintal reson for this tutorial is recoverying a bad flash of a old laptop NP740U3E-K10US.
+The inintal reson for this tutorial is recoverying a bad flash of a old laptop NP740U3E-K01US.
 
 Description of CH341A is a usb device that will emulate UART communication, standard parallel port, memeory parallel prot and synchronous serials.
 
