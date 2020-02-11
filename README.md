@@ -15,13 +15,22 @@ Description of CH341A is a usb device that will emulate UART communication, stan
 - CH341 Software
 
 **Tutorial**
-1.Prepare the nonworking motherboard
-	1a. Remove the CMOS battery from the laptop motherboard
-	1b. Remove battery or remove the connection of battery if non removable
-	1c. Remove motherbord from laptop chasis (Optional)
+1. Prepare the nonworking motherboard
+- Remove the CMOS battery from the laptop motherboard
+- Remove battery or remove the connection of battery if non removable
+- Remove motherbord from laptop chasis (Optional)
 
-2.Prepare the working computer
-	2a. Install the C341A drivers
+2. Prepare the working computer
+- Install the C341A drivers
+- Run the CH341A software
 
-3.Prepare CH341A
-	3a. Raise the arm of the device, it should be in the upright position
+3. Prepare CH341A
+- Raise the arm of the device, it should be in the upright position
+- Insert adapter with pins aligned closest to arm
+- Lower arm into the locked postion
+
+4. Plug in the USB from CH341A into the woking computer
+- Align clip on the the BIOS the chip on the broken laptop
+- Make sure the USB pluged in show two red led lights, this mean the connection is good.
+
+5.  Look at the software window
