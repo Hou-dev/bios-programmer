@@ -33,4 +33,11 @@ Description of CH341A is a usb device that will emulate UART communication, stan
 - Align clip on the the BIOS the chip on the broken laptop
 - Make sure the USB pluged in show two red led lights, this mean the connection is good.
 
-5.  Look at the software window
+5. Look at the software window
+- Hit the detect button on the window
+- If BIOS is read correctly, select opnen
+- Find the bios file of the broken laptop
+- Write to bios file
+
+6. Reassemble lapotp and insert CMOS battey
+- Boot laptop
