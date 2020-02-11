@@ -14,13 +14,13 @@ CH341 Software
 
 Tutorial
 1.Prepare the nonworking motherboard
-  1a. Remove the CMOS battery from the laptop motherboard
-  1b. Remove battery or remove the connection of battery if non removable
-  1c. Remove motherbord from laptop chasis (Optional)
+1a. Remove the CMOS battery from the laptop motherboard
+1b. Remove battery or remove the connection of battery if non removable
+1c. Remove motherbord from laptop chasis (Optional)
 
 2.Prepare the working computer
- 2a. Install the C341A drivers
+2a. Install the C341A drivers
  
 3.Prepare CH341A
-  3a. Raise the arm of the device, it should be in the upright position
-  3b. 
+3a. Raise the arm of the device, it should be in the upright position
+3b. 
